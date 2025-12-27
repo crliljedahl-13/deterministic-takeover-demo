@@ -1,0 +1,12 @@
+{
+  "address": "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+  "startTime": 1766771240,
+  "endTime": 1766771830,
+  "bumps": [
+    1000,
+    1500,
+    2000,
+    2500
+  ],
+  "initialPriceWei": "20000000000000000"
+}
