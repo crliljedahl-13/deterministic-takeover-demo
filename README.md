@@ -1,6 +1,8 @@
 # Deterministic Forced-Sale Mechanism (On-Chain Demo)
 
-**Research Paper (Independent)**  
+**Independent Research Project**
+
+**Research Paper**
 **Deterministic Forced-Sale Mechanism for Time-Bound Ownership**  
 PDF → https://github.com/crliljedahl-13/deterministic-takeover-demo/blob/main/Deterministic_Forced_Sale_Mechanism.pdf
 
