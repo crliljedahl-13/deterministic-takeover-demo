@@ -59,7 +59,7 @@ On-chain verification
 → Payment matches the required takeover price
 
 Takeover executed  
-→ Required takeover price increases per the step schedule (+15%)  
+→ Required takeover price: 0.0253 ETH (+15% step)  
 → Another buyer pays exactly 0.0253 ETH  
 → Ownership transfers immediately to the new holder
 
