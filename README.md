@@ -4,8 +4,11 @@
 **Deterministic Forced-Sale Mechanism for Time-Bound Ownership**  
 https://github.com/crliljedahl-13/deterministic-takeover-demo/blob/main/Deterministic_Forced_Sale_Mechanism.pdf
 
-This repository contains a minimal Ethereum-based implementation of the mechanism
-described above. The demo implementation is referred to as *MomentTakeover*.
+This repository contains an Ethereum-based implementation of the
+deterministic forced-sale mechanism described in the accompanying paper,
+providing an on-chain validation of its core rules and guarantees.
+
+The implementation is referred to as *MomentTakeover*.
 
 ---
 
