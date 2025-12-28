@@ -2,8 +2,8 @@
 
 Independent research demo exploring rule-based asset ownership.
 
-MomentTakeover is a minimal Ethereum project demonstrating how a smart contract
-can enforce deterministic pricing and forced asset transfers within a fixed time
+MomentTakeover is an Ethereum project demonstrating how a smart contract can
+enforce deterministic pricing and forced asset transfers within a fixed time
 window, with no discretion, no negotiation, and fully on-chain verification.
 
 ---
@@ -51,20 +51,20 @@ Deterministic pricing uses a predefined step-based schedule per takeover:
 ## Representative Output (Annotated)
 
 Takeover executed  
-→ Buyer pays the exact deterministic price (0.022 ETH)  
-→ Ownership transfers automatically (seller cannot refuse)
+→ Required takeover price: 0.022 ETH  
+→ Buyer pays exactly 0.022 ETH  
+→ Ownership transfers immediately (seller cannot refuse)
 
-Expected ETH sent: 0.022 ETH  
-Actual ETH sent: 0.022 ETH  
-→ On-chain verification confirms no underpayment or overpayment
+On-chain verification  
+→ Payment matches the required takeover price
 
 Takeover executed  
-→ Next takeover price follows the step schedule (+15% on the next takeover)  
-→ Buyer pays the exact deterministic price (0.0253 ETH)
+→ Required takeover price increases per the step schedule (+15%)  
+→ Another buyer pays exactly 0.0253 ETH  
+→ Ownership transfers immediately to the new holder
 
-Expected ETH sent: 0.0253 ETH  
-Actual ETH sent: 0.0253 ETH  
-→ On-chain verification confirms no underpayment or overpayment
+On-chain verification  
+→ Payment matches the required takeover price
 
 Contract expiry reached  
 → Takeover window closes permanently  
