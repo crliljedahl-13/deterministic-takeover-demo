@@ -51,16 +51,24 @@ Deterministic pricing uses a predefined step-based schedule per takeover:
 ## Representative Output (Annotated)
 
 Takeover executed  
-→ Buyer pays the exact deterministic price (0.024 ETH)  
+→ Buyer pays the exact deterministic price (0.022 ETH)  
 → Ownership transfers automatically (seller cannot refuse)
 
-Expected ETH sent: 0.024 ETH  
-Actual ETH sent: 0.024 ETH  
+Expected ETH sent: 0.022 ETH  
+Actual ETH sent: 0.022 ETH  
+→ On-chain verification confirms no underpayment or overpayment
+
+Takeover executed  
+→ Next takeover price follows the step schedule (+15% on the next takeover)  
+→ Buyer pays the exact deterministic price (0.0253 ETH)
+
+Expected ETH sent: 0.0253 ETH  
+Actual ETH sent: 0.0253 ETH  
 → On-chain verification confirms no underpayment or overpayment
 
 Contract expiry reached  
 → Takeover window closes permanently  
-→ All further transfer attempts revert by design
+→ All further transfer attempts revert by design: TransfersDisabled()
 
 ---
 
