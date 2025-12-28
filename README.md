@@ -2,8 +2,7 @@
 
 **Research Note:**  
 
-[Deterministic Forced-Sale NFTs: A Mechanism for Time-Bound Ownership](https://raw.githubusercontent.com/crliljedahl-13/deterministic-takeover-demo/main/Deterministic_Forced_Sale_NFTs_Research_Note%20(1).pdf)
-
+[Deterministic Forced-Sale NFTs: A Mechanism for Time-Bound Ownership](https://raw.githubusercontent.com/crliljedahl-13/deterministic-takeover-demo/main/Deterministic_Forced_Sale_NFTs_Research_Note.pdf)
 ---
 
 ## Overview
