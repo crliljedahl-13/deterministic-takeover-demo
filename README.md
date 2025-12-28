@@ -2,7 +2,8 @@
 
 **Research Note:**  
 
-https://raw.githubusercontent.com/crliljedahl-13/deterministic-takeover-demo/main/Deterministic_Forced_Sale_NFTs_Research_Note.pdf
+Deterministic Forced-Sale Mechanism (Independent Research)  
+https://github.com/crliljedahl-13/deterministic-takeover-demo/blob/main/Deterministic_Forced_Sale_Mechanism.pdf
 
 ## Overview
 
