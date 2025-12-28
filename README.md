@@ -1,11 +1,11 @@
-# MomentTakeover — Deterministic Forced-Sale NFT (Research Demo)
+# MomentTakeover — Deterministic Forced-Sale NFT (Independent Research Demo)
 
 **Research Note:**  
 [Deterministic Forced-Sale NFTs as a Primitive for Time-Bound Ownership (PDF)](./Deterministic_Forced_Sale_NFTs_Research_Note.pdf)
 
 ---
 
-Independent research demo exploring rule-based asset ownership.
+## Overview
 
 MomentTakeover is an Ethereum project demonstrating how a smart contract can
 enforce deterministic pricing and forced asset transfers within a fixed time
