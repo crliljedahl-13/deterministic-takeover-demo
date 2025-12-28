@@ -1,8 +1,7 @@
 # MomentTakeover — Deterministic Forced-Sale NFT (Independent Research Demo)
 
 **Research Note:**  
-[Deterministic Forced-Sale NFTs as a Primitive for Time-Bound Ownership (PDF)](./Deterministic_Forced_Sale_NFTs_Research_Note.pdf)
-
+https://github.com/crliljedahl-13/deterministic-takeover-demo/blob/main/Deterministic_Forced_Sale_NFTs_Research_Note.pdf
 ---
 
 ## Overview
