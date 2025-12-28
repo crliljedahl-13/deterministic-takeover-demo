@@ -8,7 +8,7 @@ window, with no discretion, no negotiation, and fully on-chain verification.
 
 ---
 
-# Why This Exists
+## Why This Exists
 
 Most asset transfers rely on discretionary, negotiated selling. Owners can
 refuse a sale, delay price discovery, or impose off-chain conditions. That
