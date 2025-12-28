@@ -43,7 +43,7 @@ freezes. Ownership becomes a verifiable rule, not a social process.
 - Ownership transfers immediately and automatically.
 - After expiry, the contract enters a frozen state and rejects transfers.
 
-Deterministic pricing uses a predefined step-based schedule per takeover:
+Deterministic pricing uses a predefined step-based schedule per takeover:  
 +10% → +15% → +20% → +25% (then repeats).
 
 ---
