@@ -1,12 +1,14 @@
 # Deterministic Forced-Sale Mechanism (On-Chain Demo)
 
-**Research Paper (Independent):**  
+**Research Paper (Independent)**  
 **Deterministic Forced-Sale Mechanism for Time-Bound Ownership**  
-https://github.com/crliljedahl-13/deterministic-takeover-demo/blob/main/Deterministic_Forced_Sale_Mechanism.pdf
+PDF → https://github.com/crliljedahl-13/deterministic-takeover-demo/blob/main/Deterministic_Forced_Sale_Mechanism.pdf
 
-This repository contains an Ethereum-based implementation of the
-deterministic forced-sale mechanism described in the accompanying paper,
-providing an on-chain validation of its core rules and guarantees.
+---
+
+This repository contains an Ethereum-based implementation of the deterministic
+forced-sale mechanism described in the paper, providing an on-chain validation
+of its core rules and guarantees.
 
 The implementation is referred to as *MomentTakeover*.
 
