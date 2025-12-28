@@ -1,7 +1,7 @@
 # MomentTakeover — Deterministic Forced-Sale NFT (Independent Research Demo)
 
 **Research Note:**  
-https://github.com/crliljedahl-13/deterministic-takeover-demo/blob/main/Deterministic_Forced_Sale_NFTs_Research_Note.pdf
+
 ---
 
 ## Overview
