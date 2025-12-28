@@ -3,7 +3,6 @@
 **Research Note:**  
 
 [Deterministic Forced-Sale NFTs: A Mechanism for Time-Bound Ownership](https://raw.githubusercontent.com/crliljedahl-13/deterministic-takeover-demo/main/Deterministic_Forced_Sale_NFTs_Research_Note.pdf)
----
 
 ## Overview
 
@@ -12,7 +11,6 @@ enforce deterministic pricing and forced asset transfers within a fixed time
 window, with no discretion, no negotiation, and fully on-chain verification.
 
 ---
-
 ## Why This Exists
 
 Most asset transfers rely on discretionary, negotiated selling. Owners can
