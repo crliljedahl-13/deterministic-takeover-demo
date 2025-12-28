@@ -58,7 +58,7 @@ locks. Ownership becomes a verifiable rule rather than a social process.
 
 ---
 
-## Mechanism Overview
+## Mechanism 
 
 - During the active window, there is always exactly one holder.
 - Anyone may take over ownership by paying the next required deterministic price.
